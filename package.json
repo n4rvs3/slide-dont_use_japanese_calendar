@@ -1,0 +1,17 @@
+{
+  "name": "dont_use_japanese_calendar",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build": "slidev build",
+    "dev": "slidev --open",
+    "export": "slidev export"
+  },
+  "dependencies": {
+    "@slidev/cli": "^0.47.4",
+    "@slidev/theme-default": "latest",
+    "@slidev/theme-seriph": "latest",
+    "slidev-theme-purplin": "^1.2.0",
+    "vue": "^3.4.15"
+  }
+}
